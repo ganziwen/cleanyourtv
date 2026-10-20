@@ -1,0 +1,19 @@
+{
+  "dock_apps": [
+    "com.chinasoul.bt",
+    "com.fongmi.android.tv",
+    "com.github.metacubex.clash.meta",
+    "com.amazon.firetv.youtube"
+  ],
+  "fill_dock": true,
+  "hidden_apps": [
+    "com.mitv.gallery"
+  ],
+  "live_tv_package": "com.xiaomi.mitv.tvplayer",
+  "live_tv_action": "com.xiaomi.mitv.tvplayer.ATV_PLAY",
+  "columns": 4,
+  "rows_below_dock": 0,
+  "reduced_motion": false,
+  "background_color": "#000000",
+  "wallpaper": false
+}
