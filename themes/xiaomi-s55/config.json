@@ -13,6 +13,7 @@
   "live_tv_action": "com.xiaomi.mitv.tvplayer.ATV_PLAY",
   "columns": 4,
   "rows_below_dock": 0,
+  "app_library": true,
   "reduced_motion": false,
   "background_color": "#000000",
   "wallpaper": false
